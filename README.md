@@ -1,20 +1,9 @@
 # 💫 About Me:
-🚀 Working on:
-- Fine-tuning XLM-RoBERTa for Multilingual NER
-- ABSA with BERT/T5 & LoRA
-- Long-Document QA with Longformer
+🚀 Working on: Fine-tuning XLM-RoBERTa for Multilingual NER | ABSA with BERT/T5 & LoRA | Long-Document QA with Longformer
 
-🤝 Looking to collaborate on:
-- NLP projects (NER, ABSA, fine-tuning LLMs)
-- Large-scale multilingual datasets
+🤝 Looking to collaborate on: NLP projects (NER, ABSA, fine-tuning LLMs) | Large-scale multilingual datasets
   
-💡 Seeking help with:
-- Advanced LoRA/QLoRA fine-tuning
-- Optimizing long-document QA tasks
-  
-📚 Currently learning:
-- LoRA/QLoRA fine-tuning
-- Long-document QA
+💡 Seeking help with: Advanced LoRA/QLoRA fine-tuning | Optimizing long-document QA tasks
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vernon_c.4882) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vernon Choo Chee Yang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choocheeyang1224@gmail.com) 
