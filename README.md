@@ -1,8 +1,4 @@
 # 💫 About Me:
-## About Me
-
-Currently, I'm focused on fine-tuning XLM-RoBERTa for multilingual NER, exploring ABSA with BERT/T5 and LoRA, and experimenting with Longformer for long-document QA (extractive vs. generative). I'm eager to collaborate on NLP projects, especially those involving fine-tuning LLMs, NER, ABSA, and working with large-scale datasets and multilingual techniques. I'm actively seeking help with advanced LoRA/QLoRA fine-tuning and optimizing long-document QA tasks. Currently, I'm learning LoRA/QLoRA and diving deeper into long-document question answering. Feel free to ask me about NLP model fine-tuning, multilingual tasks, ABSA, and NER in deep learning.
-
 **Currently working on:**
 - Fine-tuning XLM-RoBERTa for Multilingual NER (WikiANN dataset) - ABSA with BERT/T5 and LoRA fine-tuning - Long-Document QA using Longformer (extractive vs. generative)
 
